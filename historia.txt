@@ -2,14 +2,10 @@ esta es la historia de Yhoshua Bernal
 
 Yhoshua Bernal tiene 16 años y nacio en mexico
 
-<<<<<<< HEAD
 experimento 1
 
 experimento 2
 
 Master 1
-=======
-Master 2
->>>>>>> c6a16a8 (Master 2)
 
 mañana nos enfocaremos en su vida laboral
