@@ -10,5 +10,7 @@ un blog increible que aprendí en un curso de platzi -
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increíble platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio¨**Este readme es un chiste**¨. Diseñado para el ejemplo. No te lo tomes en serio y mejor ve a ver el curso(https://platzi.com/cursos/git-github/)
